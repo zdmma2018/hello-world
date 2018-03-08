@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+Hi humans
+dog zhang here.i am studying php.
